@@ -1,0 +1,24 @@
+Key input files and output files for the Neotropical Biodiversity paper "Vulnerability of Elevation-Restricted Endemic Birds of the Cordillera de Talamanca (Costa Rica and Panama) to Climate Change"
+
+Species distribution models produced using Maxent desktop
+Contact: Andy Wilson for further information. awilson@gettysburg.edu
+
+Files are in zipped folders to save disk space, as follows:
+
+2. "Bird_data.zip" zipped folder of cvs file with xy cordiantes of eBird* data observations for each species, for years 2006-2015
+3. "elevation" zipped folder of geotiff of digital elevation model
+4. "ecosystem_type.zip" zipped folder of geotiff of ecosystem type (see paper text for derivation)
+5. "modis landcover.zip" zipped folder of geotiff of MODIS landcover
+6. "Maps for species names B to M" zipped folder of geotiffs of species maps with English Common names B through M
+7. "Maps for species names O to Y" zipped folder of geotiffs of species maps with English Common names O through Y
+
+Items 6 and 7 include 5 maps for each species:
+
+i) species_name_baseline - estimated species distribution in 2006-2015
+ii) species_name_RCP26 - estimated species ditribution in 2070 under Representative Concentration Pathway 2.6
+iii) species_name_RCP45 - estimated species ditribution in 2070 under Representative Concentration Pathway 4.5
+iv) species_name_RCP60 - estimated species ditribution in 2070 under Representative Concentration Pathway 6.0
+v) species_name_RCP85 - estimated species ditribution in 2070 under Representative Concentration Pathway 8.5
+
+Geotiffs of climate variables are not provided due to space constraints. All are available int he public domain at: https://www.worldclim.org/
+* eBird: https://science.ebird.org/en/use-ebird-data/download-ebird-data-products
